@@ -1,0 +1,67 @@
+.logotipo { 
+	height: 100px;
+	padding: 1px;
+}
+#principal {
+	
+	margin: 2em auto;
+	width: 800px;
+	text-align: left;
+	background: #fff;
+}
+#principal p {
+	font: 80% arial, "times new roman", serif;
+	font-weight: bold;
+	line-height: 120%;	
+}
+
+h2 {
+	font: 140% arial, "times new roman";
+	font-weight: bold;
+	background-color: #808080;
+	padding: 10px;
+}
+
+#centro {
+	margin: 10px;
+	background-color: #e4e2e0;
+	text-align: center;
+	padding: 0 0 0 0;
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#centro p {
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+#centro img {
+	height: 350px;
+}
+
+#historia h3{
+	font: 140% arial, "times new roman";
+	font-weight: bold;
+	border-bottom: 3px solid;
+}
+
+.imageirmaos {
+	height: 140px;	
+}
+
+#image {
+	float: right;
+	padding: 8px 8px 8px 8px;
+	background-color: #e4e2e0;
+	margin: 0 0 10px 10px;
+}
+
+#textirmaos{
+	padding: 8px;
+	text-align: center;
+	font: 100% arial, "times new roman";
+	font-style: italic;
+}
